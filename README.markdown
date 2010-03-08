@@ -33,6 +33,6 @@ request.
 Copyright Information
 =====================
 
-Written by Nick Welch in 2010.
-No copyright.  This work is dedicated to the public domain.
+Written by Nick Welch in 2010.  
+No copyright.  This work is dedicated to the public domain.  
 For full details, see http://creativecommons.org/publicdomain/zero/1.0/
