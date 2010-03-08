@@ -1,8 +1,8 @@
 torrentfinder
 =============
 
-torrentfinder is a small script to search thepiratebay for music and aggregate
-the results into a single HTML page.
+torrentfinder is a small script for running multiple searches on The Pirate Bay
+and aggregating the results into a single HTML page.
 
 Dependencies
 ============
